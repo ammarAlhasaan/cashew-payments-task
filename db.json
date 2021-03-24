@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ammar Alhasan",
+      "email": "a.hasan@ligadata.com",
+      "password": "12345678",
+      "token": "ammarAlhasanToken"
+    }
+  ],
+  "contents": [
+    {
+      "id": 1,
+      "message": "Welcome in our dashboard"
+    }
+  ]
+}
