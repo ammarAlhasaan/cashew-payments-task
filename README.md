@@ -3,13 +3,17 @@
 
 
 
-## Step 1: You have to install json-server
+## Step 1: 
+### `npm install`
+
+
+## Step 2: You have to install json-server
 ### `npm install -g json-server`
 
-## Step 2: start json-server (don't change the port 3004)
+## Step 3: start json-server (don't change the port 3004)
 ### `json-server --watch db.json --port 3004`
 
-## Step 3: start the project
+## Step 4: start the project
 ### `npm start`
 
 ###Please note if you didi't find db.json in the root of the project please create a new one and add this data inside it.
